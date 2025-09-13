@@ -13,8 +13,9 @@ Aqui estão alguns projetos que já finalizei:
 
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
-| **📝 Lista de Tarefas (To-Do List)** | Python, Flask, HTML, CSS | Aplicativo simples para adicionar e remover tarefas com interface web. |
+| <a href="https://github.com/Joaodevtech/Python-HTML-CSS/tree/main/Lista_de_Tarefas" target="_blank">**📝 Lista de Tarefas (To-Do List)**</a> | Python, Flask, HTML, CSS | Aplicativo simples para adicionar e remover tarefas com interface web. |
 | **🎨 Projeto Futuro** | Python, HTML, CSS | Breve descrição do projeto. |
+
 
 > 💡 Em breve adicionarei mais projetos, todos com código comentado, screenshots e instruções de execução.
 
