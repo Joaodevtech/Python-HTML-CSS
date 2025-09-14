@@ -56,7 +56,7 @@ Lista_de_Tarefas/
     <strong>Executar localmente:</strong><br>
     Se preferir, pode clonar o repositório e rodar o projeto em sua máquina seguindo os passos abaixo:
     <br><br>
-    <ol type="a">
+    <ol type="A">
       <li><strong>Clone o repositório:</strong></li>
       <pre><code>git clone https://github.com/SEU-USER/Nome-do-Repo.git
 cd "Lista de Tarefas"</code></pre>
