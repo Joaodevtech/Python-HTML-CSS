@@ -61,4 +61,8 @@ to_do_app/
 
 </code>
   
-🎨 Tela do Projeto
+<h1>🎨 Tela do Projeto</h1>
+
+<a href="https://6edb18b3-e4a4-4fbb-b7cf-feafc51f7a14-00-awovkqgmtbjg.picard.replit.dev:3000/">
+  <img src="https://github.com/Joaodevtech/Python-HTML-CSS/blob/main/Lista_de_Tarefas/static/screenshot.png">
+</a>
